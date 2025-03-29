@@ -366,7 +366,7 @@
           </div>
         </div>
       </div>
-    </transition>
+    </transition> 
 
     <!-- Footer -->
     <footer class="py-8 border-t" :class="isDarkMode ? 'bg-gray-800 border-gray-700' : 'bg-white border-gray-200'">
